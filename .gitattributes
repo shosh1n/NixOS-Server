@@ -1,0 +1,4 @@
+vars/vars.nix filter=git-crypt diff=git-crypt
+vars/identities.nix filter=git-crypt diff=git-crypt
+
+.gitattributes !filter !diff
